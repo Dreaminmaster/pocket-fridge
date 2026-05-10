@@ -1,5 +1,7 @@
 # Pocket Fridge
 
+> 在线预览（GitHub Pages）：https://dreaminmaster.github.io/pocket-fridge/
+
 一个可部署到 GitHub Pages 的 Low-poly 3D 冰箱互动网页原型，基于 **Vite + Three.js + HTML/CSS/JavaScript**。
 
 ## 功能
